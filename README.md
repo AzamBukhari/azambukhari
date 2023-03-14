@@ -27,7 +27,7 @@ __
 ## Linkedin:
 - 1. [ChatGPT Extension for VSCode](https://www.linkedin.com/feed/update/urn:li:activity:7038427388141035522?utm_source=share&utm_medium=member_desktop)
 - 2. [Statistics, Data Science, and Machine Learning:"Turning data into insights, and insights into impact."](https://www.linkedin.com/feed/update/urn:li:activity:7038130104715091968?utm_source=share&utm_medium=member_desktop)
-- 3. [Real-time machine learning is transforming the telecommunications industry, with the mind map poster providing a comprehensive guide to its applications in network optimization, customer experience, and fraud detection.] (https://www.linkedin.com/posts/azambukhari_machine-learning-in-telecom-sector-activity-7037181693589389313-S0mE?utm_source=share&utm_medium=member_desktop)
+- 3. [Real-time machine learning is transforming the telecommunications industry, with the mind map poster providing a comprehensive guide to its applications in network optimization, customer experience, and fraud detection.](https://www.linkedin.com/posts/azambukhari_machine-learning-in-telecom-sector-activity-7037181693589389313-S0mE?utm_source=share&utm_medium=member_desktop)
 <!--
 **AzamBukhari/azambukhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
