@@ -1,6 +1,7 @@
 # About Me 👋
->
-Hello/Hallå/Hi: I am Azam, my bread & butter has been data ever since I bought my first computer back in 1992. Whether it’s defining a variable or applying statistical hypothesis or ML based predictive modeling., You will probably find me connecting the dots.
+### Hello / Hallå / Hi / مرحبًا :
+
+I am Azam, my bread, butter & passion has been data ever since I bought my first computer back in 1992. Whether it’s defining a variable or applying statistical hypothesis or ML based predictive modeling., You will probably find me connecting the dots.
 
 Over the past 15 years, I have honed my technical and business knowledge within the IT and telecommunications sector. Technology inspires me and data being the new fuel led me to pave my career into the field of data sciences, statistics, machine learning, and artificial intelligence. 
 
