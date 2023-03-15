@@ -1,4 +1,4 @@
-# About Me 👋
+# About Me 🐋
 ### Hello / Hallå / Hi / مرحبًا :
 
 I am Azam, my bread, butter & passion has been data ever since I bought my first computer back in 1992. Whether it’s defining a variable or applying statistical hypothesis or ML based predictive modeling., You will probably find me connecting the dots.
