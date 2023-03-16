@@ -7,9 +7,9 @@ Over the past 15 years, I have honed my technical and business knowledge within 
 
 While I bring expertise in areas such as business analysis and design, SCRUM Agile methodology, software development and design life cycle (SDLC), UML, DFD, ERD design techniques, revenue assurance, sales planning and performance, and solution architect billing/business support systems (BSS), I am now seeking to further develop my skills in the exciting and evolving fields of data science, statistics, machine learning, and artificial intelligence.
 
-- 🔭 I’m currently working on various different technologies/domains: Data warehouse, Data Science, Data Wrangling
+- 🔧 I’m currently working on various different technologies/domains: Data warehouse, Data Science, Data Wrangling
 - 🌱 I’m always learning, but currently my interest revolves around Advance Statistics, Machine Learning & artificial Intelligence
-- 👯 I’m looking to collaborate on knowldege sharing, code sharing and building better AI models
+- 🤝🏻 I’m looking to collaborate on knowldege sharing, code sharing, innovative ideas and building better AI models
 - 🤔 I’m looking for help with real-time ML
 - 💬 Ask me about Telco, Data Science, Computer Sciences, Hikining, Rowing
 
