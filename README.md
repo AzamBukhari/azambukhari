@@ -16,7 +16,8 @@ While I bring expertise in areas such as business analysis and design, SCRUM Agi
 #### 📫 How to reach me: 
 > [x] [Linkedin](https://www.linkedin.com/in/azambukhari/)\
 > [x] [Twitter](https://twitter.com/AzamBukhari1)\
-> [x] [Github](https://github.com/AzamBukhari)
+> [x] [Github](https://github.com/AzamBukhari)\
+> [x] [Medium](https://medium.com/@azam.bukhari)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a cattle lover and sea inspires me\
 ___
