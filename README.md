@@ -24,7 +24,9 @@ ___
 # Some of My Latest Social Media Contributions:
 ## Medium
 > 1. [Data Science To The Rescue… ](https://medium.com/@azam.bukhari/data-science-to-the-rescue-515a8f66951d)
-> 2. [The Yellow Dreamer…](https://medium.com/@azam.bukhari/the-yellow-dreamer-ee2fb5356f2c)
+> 2. [Electric Avenue: Navigating the World of Electric Cars](https://medium.com/@azam.bukhari/electric-avenue-navigating-the-world-of-electric-cars-bdb7b0123a89)
+![image](https://user-images.githubusercontent.com/121688289/228983812-f09087cb-ce14-4710-ba13-3ad8fc5f3202.png)
+
 > 3. [Raising Muslim Daughters: Embracing Freedom of Choice in Faith and Beyond](https://medium.com/@azam.bukhari/raising-muslim-daughters-embracing-freedom-of-choice-in-faith-and-beyond-f4d3d008953)
 
 ## Linkedin:
